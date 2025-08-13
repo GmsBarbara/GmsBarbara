@@ -1,9 +1,9 @@
-# 👋 Oii, eu sou a Barbara Gomes!  
+# Oii, eu sou a Barbara Gomes!  
 💻 Desenvolvedora Full Stack 
 
   ##
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
